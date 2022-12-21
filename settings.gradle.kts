@@ -19,6 +19,7 @@ enableFeaturePreview("VERSION_CATALOGS")
 include(
     ":libraries:core",
     ":libraries:customisations",
+    ":libraries:interop-coroutines",
     ":libraries:interop-ribs",
     ":libraries:interop-rx2",
     ":libraries:interop-rx3",
